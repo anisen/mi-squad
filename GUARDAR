@@ -1,0 +1,10 @@
+GUARDAR
+-   
+ <div class="todosLosComentarios">
+		<div class="comentario-particular">
+			<p ="coment">hola amiga</p>
+			<a href="#" onclick="megusta()">Like</a>
+			<span>4</span>
+		</div>
+
+		/*<textarea class="coment" /*style="margin: 0px; width: 400px; height: 150px;"*/></textarea><button name="comentar" id="comment" onclick="megusta();return false;">comentar</button>*/
